@@ -15,7 +15,7 @@ pip
 Installation & Execution
 Clone the repository:
 
-git clone https://github.com/shobhit-pixel/Student-Result-Prediction-AI.git
+git clone https://github.com/omvyas876/Student-Result-Prediction-AI.git
 cd Student-Result-Prediction-AI
 Install the required dependencies:
 
